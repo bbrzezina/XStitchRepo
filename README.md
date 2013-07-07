@@ -15,8 +15,3 @@ This draft version is done in Java.
 Main is located in FlossProgram.java
 
 Enjoy! Please let me know if you have any feedback or issues.
-
-
-  __
-<(' )_
- (____)*    quack
